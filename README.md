@@ -1,5 +1,4 @@
 # imdb-analysis
-**IMDB Movie Data Analysis**
 
 This Python project analyzed a dataset containing movie information from IMDB. The project highlights key data science skills such as data preparation, exploratory data analysis, and statistical modeling, as well as the creation of insightful visualizations.
 
